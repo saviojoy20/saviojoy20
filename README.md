@@ -1,6 +1,6 @@
 - 👋 Hi, 
 - I’m a human ✨
-- 👀 I’m interested in  Linux, Python💞️, scripting, automation ...
+- 👀 I’m interested in  Linux, Python, scripting, automation ...
 
 
 <!---
